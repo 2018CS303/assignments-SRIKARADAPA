@@ -1,0 +1,33 @@
+Project Title: IIITB Gate Monitor                                             Project Number: FCZ10FCB
+Project Leader: Sai Srikar                                                Anticipated Start Date: 2 nd September, 2018
+Date Prepared: 22 nd August, 2018                                             Anticipated Completion Date: 30 th October,2018
+Sponsor: IIITB                                                                Project Risk Level: Low
+
+
+Team Members: Baswanth Reddy,Manideep
+
+Purpose of Project:   
+                        Details of people who Enters/Exits college. 
+			To know about people who are going out of the campus (or) coming in to the campus during curfew hours.
+                      
+Background:		
+			By using registers it is too hard to know the statistics of people(who are in campus from time to time).
+			By using registers it is hard to know about people who are going out of the campus (or) coming in to the campus during curfew  				hours.  
+			
+			
+
+Deliverables:
+		        Data of every entry and exit from the campus.
+			Every students record of number of curfew violations
+		        Statistics and an exact number of people inside the college.
+
+Stakeholders:
+                       Students
+                       Staff
+                       Guests
+Resource requirements:
+ 			ID cards for students/staff.
+			Barcodes on ID cards.
+			Guest tokens for guests.
+			Data base to store data.
+			10,000 rupees for installing requirements(ID cards,Data base,Barcode scanners)
